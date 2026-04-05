@@ -12,6 +12,5 @@ To resolve these issues, we introduced an abstraction layer (an interface) betwe
 * **Interface Segregation Principle(ISP):** The interface is kept lean, focusing only on the necessary borrowing logic.
 
 ### UML Class Diagram
-
-to do 
+![SOLID.png](SOLID.png)
 
